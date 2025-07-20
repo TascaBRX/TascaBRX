@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Lucas Tasca
+# 👋 Olá! Eu sou o Lucas Tasca / TascaBRX
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas** na Estácio e estou dando meus primeiros passos no mundo da programação. Estou muito animado para aprender e crescer na área de tecnologia, com foco especial em **Front-end** e **desenvolvimento de aplicativos**.
 
