@@ -1,20 +1,20 @@
 # 👋 Olá! Eu sou o Lucas Tasca / TascaBRX
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas** na Estácio e estou dando meus primeiros passos no mundo da programação. Estou muito animado para aprender e crescer na área de tecnologia, com foco especial em **Front-end** e **desenvolvimento de aplicativos**.
+Atualmente curso **Análise e Desenvolvimento de Sistemas** na Estácio e estou dando meus primeiros passos no mundo da programação. Estou muito animado para aprender e crescer na área de tecnologia.
 
 ## 🚀 Sobre mim
 
 - 🎓 Estudante de ADS na Estácio
-- 💡 Interesses: Front-end, desenvolvimento mobile e UX/UI
-- 📚 Atualmente aprendendo: HTML, CSS, JavaScript e Git
+- 💡 Interesses: Lógica de programação, desenvolvimento de software e versionamento de código
+- 📚 Atualmente aprendendo: Linguagem C, Git e GitHub
+- 🧰 Utilizando o Visual Studio Code como editor principal
 - 🌱 Em constante evolução e aberto a novas oportunidades e colaborações!
 
 ## 🛠️ Tecnologias em aprendizado
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)
 
 ## 📊 GitHub Stats
