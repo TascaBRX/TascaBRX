@@ -20,8 +20,8 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** na Estácio e estou 
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucastasca&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastasca&layout=compact&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TascaBRXa&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TascaBRX&layout=compact&theme=radical" />
 </div>
 
 ## 🌐 Onde me encontrar
