@@ -28,8 +28,8 @@ Neste período, estou mergulhando em matérias fundamentais para a formação de
 ## 📊 Estatísticas do GitHub
 
 <div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TascaBRX&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TascaBRX&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TascaBRX&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TascaBRX&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </div>
 
 ---
