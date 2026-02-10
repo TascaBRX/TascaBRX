@@ -25,12 +25,5 @@ Neste período, estou mergulhando em matérias fundamentais para a formação de
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## 📊 Estatísticas do GitHub
-
-![Estatísticas de Lucas](https://github-readme-stats.vercel.app/api?username=TascaBRX&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=TascaBRX&layout=compact&theme=radical)
-
 ---
 ⭐ Em constante evolução e aberto a novas oportunidades e colaborações!
-
